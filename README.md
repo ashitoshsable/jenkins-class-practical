@@ -1,1 +1,1 @@
-# This a Jenkins practice file
+# This is a Jenkins practice file
